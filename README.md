@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
 <img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=000000&color=00d9ff" />
 <img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
-
+</br>
 </div>
 
 <br/>
