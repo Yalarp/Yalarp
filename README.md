@@ -1,30 +1,27 @@
 <div align="center">
 
-<!-- 🌈 Sleek Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,4,6,8,10&text=PRALAY%20TE&fontSize=80&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18"/>
+<!-- Modern Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3,5,6&text=PRALAY%20TE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18"/>
 
-<!-- 💻 Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+🚀;MERN+Stack+%2B+3D+Visualization;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<!-- Clean Modern Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;MERN+Stack+%2B+3D+Visualization;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- 🎯 Status Badges Row 1 -->
-<img src="https://img.shields.io/badge/🚀_Status-Shipping_Features-3B82F6?style=flat-square&labelColor=0f172a&color=3B82F6" />
-<img src="https://img.shields.io/badge/📍_Location-Mumbai%2C_India-10B981?style=flat-square&labelColor=0f172a&color=10B981" />
-<img src="https://img.shields.io/badge/💼_Available-For_Projects-8B5CF6?style=flat-square&labelColor=0f172a&color=8B5CF6" />
+<!-- Modern Status Badges Row 1 -->
+<img src="https://img.shields.io/badge/🚀_Status-Shipping_Features-3B82F6?style=flat-square&labelColor=1e293b&color=3B82F6" />
+<img src="https://img.shields.io/badge/📍_Location-Mumbai%2C_India-10B981?style=flat-square&labelColor=1e293b&color=10B981" />
+<img src="https://img.shields.io/badge/💼_Available-For_Projects-8B5CF6?style=flat-square&labelColor=1e293b&color=8B5CF6" />
 
 <br/>
 
-<!-- ⚡ Status Badges Row 2 -->
-<img src="https://img.shields.io/badge/🔥_CODING-LIVE-00ff41?style=for-the-badge&labelColor=0a0a0a&color=00ff41" />
-<img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=0a0a0a&color=ff006e" />
-<img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=0a0a0a&color=00d9ff" />
-<img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=0a0a0a&color=ffbe0b" />
+<!-- Epic Status Badges Row 2 -->
+<img src="https://img.shields.io/badge/🔥_CODING-LIVE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
+<img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
+<img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=000000&color=00d9ff" />
+<img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
 
 <br/><br/>
-
-</div>
-
 
 <!-- Cool Animated GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
