@@ -28,14 +28,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🎵 CURRENT VIBE
-
-<img src="https://spotify-now-playing.vercel.app/api/spotify?user=31l26i2fuv44bdgvzfvg54qcvv6u&theme=novatorem&cover=true&show_offline=false&background_color=0d1117&bar_color=00ff41&bar_color_cover=true" width="400"/>
-
-**🎧 Fun Fact:** Code quality = 10x when my playlist is on shuffle!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## 💭 DAILY DEV WISDOM
 
 </div>
@@ -169,15 +161,6 @@ class Developer {
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa443-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🎵 CURRENT VIBE
-
-<img src="https://data-card-for-spotify.herokuapp.com/api/view?uid=31l26i2fuv44bdgvzfvg54qcvv6u&type=tracks&time_range=short_term&theme=novatorem&bar_color=00ff41&limit=5" width="400"/>
-
-**🎧 Fun Fact:** Code quality = 10x when my playlist is on shuffle!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa443-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ## 💭 DAILY DEV WISDOM
 
 </div>
