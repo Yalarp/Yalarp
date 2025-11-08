@@ -23,42 +23,6 @@
 
 <br/><br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-♟️ CHALLENGE ME TO CHESS!
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="200">
-🎮 Want to play? Make your move by opening an issue!
-<!-- Chess Board -->
-Show Image
-<br/>
-📋 How to Play:
-
-👀 Check the current board position above
-🎯 Click the chess board to open a new issue
-♟️ Replace YOUR_MOVE in the title with your move (e.g., e2e4)
-✅ Submit the issue and watch the magic happen!
-🔄 The board updates automatically after each move
-
-<br/>
-<!-- Move Format Guide -->
-ascii╔══════════════════════════════════════════════════════════╗
-║  📝 MOVE FORMAT: chess|move|[from][to]                  ║
-║                                                          ║
-║  Examples:                                               ║
-║  • chess|move|e2e4  → Move pawn from e2 to e4          ║
-║  • chess|move|g1f3  → Move knight from g1 to f3        ║
-║  • chess|move|e7e5  → Move pawn from e7 to e5          ║
-╚══════════════════════════════════════════════════════════╝
-<br/>
-<!-- Status Badges for Chess -->
-<img src="https://img.shields.io/badge/♟️_Status-Ready_to_Play-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
-<img src="https://img.shields.io/badge/🎯_Moves-Interactive-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
-<img src="https://img.shields.io/badge/⚡_Mode-Real--time-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
-<br/>
-🏆 Think you can beat me? Let's find out! Drop your move and let's play!
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 <!-- Cool Animated GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
@@ -72,33 +36,33 @@ ascii╔════════════════════════
 
 ```typescript
 class Developer {
-  name = "Pralay Te";
-  location = "Mumbai 🇮🇳";
-  role = "Full-Stack Developer";
-  
-  currentMission() {
-    return {
-      🎯 project: "Full-Stack GIS Platform",
-      ⚡ stack: ["MERN", "TypeScript", "Three.js"],
-      🌍 features: ["2D/3D Maps", "Real-time Viz"],
-      🔥 status: "Shipping code at light speed"
-    };
-  }
-  
-  powerUps = {
-    frontend: ["React ⚛️", "Next.js 🔺", "Three.js 🎨"],
-    backend: ["Node.js 💚", "Express ⚡", "MongoDB 🍃"],
-    superpowers: ["WebGL Magic ✨", "GIS Wizardry 🗺️"]
-  };
-  
-  dailyRoutine() {
-    while (alive) {
-      eat();
-      code();
-      sleep(); // optional 😅
-      repeat();
-    }
-  }
+  name = "Pralay Te";
+  location = "Mumbai 🇮🇳";
+  role = "Full-Stack Developer";
+  
+  currentMission() {
+    return {
+      🎯 project: "Full-Stack GIS Platform",
+      ⚡ stack: ["MERN", "TypeScript", "Three.js"],
+      🌍 features: ["2D/3D Maps", "Real-time Viz"],
+      🔥 status: "Shipping code at light speed"
+    };
+  }
+  
+  powerUps = {
+    frontend: ["React ⚛️", "Next.js 🔺", "Three.js 🎨"],
+    backend: ["Node.js 💚", "Express ⚡", "MongoDB 🍃"],
+    superpowers: ["WebGL Magic ✨", "GIS Wizardry 🗺️"]
+  };
+  
+  dailyRoutine() {
+    while (alive) {
+      eat();
+      code();
+      sleep(); // optional 😅
+      repeat();
+    }
+  }
 }
 ```
 
@@ -250,16 +214,16 @@ class Developer {
 
 <!-- Glowing Social Buttons -->
 <a href="https://linkedin.com/in/pralay-te">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:2706pralay@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://instagram.com/pralay_te">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://twitter.com/pralay_te">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 <br/><br/>
@@ -267,11 +231,11 @@ class Developer {
 <!-- Cool ASCII Art -->
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   💼 Open to: Freelance • Remote Work • Cool Projects        ║
-║   🚀 Let's build something LEGENDARY together!               ║
-║   ☕ Powered by: Coffee, Code & Creativity                   ║
-║                                                               ║
+║                                                               ║
+║   💼 Open to: Freelance • Remote Work • Cool Projects        ║
+║   🚀 Let's build something LEGENDARY together!               ║
+║   ☕ Powered by: Coffee, Code & Creativity                   ║
+║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
