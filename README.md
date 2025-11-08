@@ -135,9 +135,9 @@ class Developer {
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
