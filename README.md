@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3,5,6&text=PRALAY%20TE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3,5,6&text=PRALAY%20TEMBHURNE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18"/>
 
 <!-- Clean Modern Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;MERN+Stack+%2B+3D+Visualization;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
