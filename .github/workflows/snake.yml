@@ -1,15 +1,19 @@
 name: Generate Snake Animation
 
+# ... (this should already be here)
 on:
-  # Run automatically on a schedule (every 12 hours)
   schedule:
     - cron: "0 */12 * * *" 
-  
-  # Allow manual running from the Actions tab
   workflow_dispatch:
 
+# ADD THESE THREE LINES:
+permissions:
+  contents: write
+
+# "jobs:" should be right below
 jobs:
   generate:
+# ... (rest of the file)
     runs-on: ubuntu-latest
     steps:
       # Check out the repository
