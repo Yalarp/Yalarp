@@ -1,397 +1,223 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=PRALAY%20TE&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20GIS%20Enthusiast%20|%203D%20Web%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+# 🌟 Hey there, I'm Pralay! 
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Transforming+Ideas+into+Digital+Reality+%E2%9C%A8;MERN+Stack+%7C+3D+Visualization+%7C+WebGL+Magic;Building+Tomorrow's+Web+Today+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FFFF&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+GIS+Enthusiast;Building+the+Future+with+MERN+%26+3D+Web;Turning+Coffee+into+Code+%E2%98%95%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Animated Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
-<!-- Animated Badges -->
-<img src="https://img.shields.io/badge/STATUS-CODING%20IN%20PROGRESS-00FF00?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000&color=00FF00" />
-<img src="https://img.shields.io/badge/FOCUS-GIS%20PLATFORM-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE%20%26%20CODE-6366F1?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=000000" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 What I'm Building Right Now
 
-## 🎯 CURRENTLY ARCHITECTING
-
-</div>
-
-```typescript
-interface Developer {
-  name: "Pralay Te";
-  role: "Full-Stack Sorcerer 🧙‍♂️";
-  location: "Mumbai, Maharashtra 🇮🇳";
-  
-  currentMission: {
-    project: "Full-Stack GIS Platform",
-    tech: ["MERN", "TypeScript", "Three.js", "Cesium ION"],
-    features: ["2D/3D Mapping", "Real-time Data Viz", "WebGL Magic"],
-    status: "⚡ Building the future...",
-  };
-  
-  dailyRoutine: {
-    code: "10 hours",
-    coffee: "∞ cups",
-    music: "Always on shuffle 🎧",
-    sleep: "console.log('sleep is for the weak')",
-  };
-  
-  lifePhilosophy: "Code. Learn. Repeat. 🔄";
-}
+```javascript
+const pralay = {
+    currentProject: "Full-Stack GIS Platform 🗺️",
+    stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+    visualization: ["Leaflet 🍃", "Three.js ✨", "Cesium ION 🌍"],
+    dimensions: "2D + 3D = ∞ Possibilities",
+    status: "Coding in progress... ⚡"
+};
 ```
 
 <div align="center">
-
-<!-- Tech Stack Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
 ---
 
-<div align="center">
-
-## 🚀 MY TECH UNIVERSE
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 💻 FRONTEND
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux&perline=4" />
-
-</td>
-<td align="center" width="25%">
-
-### ⚡ BACKEND
-<img src="https://skillicons.dev/icons?i=nodejs,express,adonis,socketio,jwt,postman,graphql,redis&perline=4" />
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️ DATABASE
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,prisma,supabase,sqlite,dynamodb&perline=4" />
-
-</td>
-<td align="center" width="25%">
-
-### 🎨 3D/DESIGN
-<img src="https://skillicons.dev/icons?i=threejs,blender,figma,xd,photoshop,illustrator,ae,pr&perline=4" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-### 📱 MOBILE
-<img src="https://skillicons.dev/icons?i=react,flutter,kotlin,androidstudio,expo,firebase&perline=3" />
-
-</td>
-<td align="center" width="25%">
-
-### 🛠️ TOOLS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,nginx,jenkins,linux&perline=4" />
-
-</td>
-<td align="center" width="25%">
-
-### ☁️ CLOUD
-<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,gcp,azure,heroku,cloudflare,railway&perline=4" />
-
-</td>
-<td align="center" width="25%">
-
-### 💪 LANGUAGES
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,cs,dotnet,go,rust&perline=4" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📈 GITHUB STATS DASHBOARD
-
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Yalarp&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="Stats" />
-  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=Yalarp&theme=midnight-purple&hide_border=true&stroke=6366F1&ring=FF6B6B&fire=FFB86C&currStreakLabel=6366F1&sideLabels=FF6B6B&border_radius=15&background=0D1117" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalarp&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=15&card_width=400" alt="Top Languages" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yalarp&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&layout=compact&border_radius=15&card_width=400" alt="Wakatime Stats" />
-</div>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yalarp&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=6366F1&line=FF6B6B&point=FFB86C&area=true&area_color=6366F1&title_color=6366F1&radius=15" width="98%"/>
-
----
-
-<div align="center">
-
-## 🏆 ACHIEVEMENT SHOWCASE
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yalarp&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-## 🤝 COLLABORATION MATRIX
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 💡 OPEN TO COLLABORATE ON
-
-```yaml
-projects:
-  - type: "Open Source"
-    stacks: ["MERN", "Next.js", "TypeScript"]
-    focus: "Real-world impact"
-  
-  - type: "3D Web Applications"
-    tools: ["Three.js", "WebGL", "Cesium"]
-    goal: "Push boundaries"
-  
-  - type: "GIS Solutions"
-    platforms: ["Web", "Mobile"]
-    specialty: "Geospatial visualization"
-  
-  - type: "Full-Stack SaaS"
-    expertise: ["Architecture", "Scaling", "DevOps"]
-    interest: "High-growth startups"
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 CURRENTLY MASTERING
-
-```yaml
-learning_path:
-  advanced_react:
-    - "Server Components"
-    - "Concurrent Features"
-    - "Performance Patterns"
-  
-  typescript:
-    - "Advanced Types"
-    - "Generics Mastery"
-    - "Type Guards"
-  
-  three_js:
-    - "Custom Shaders"
-    - "Performance Optimization"
-    - "Physics Integration"
-  
-  architecture:
-    - "Microservices"
-    - "Event-Driven Design"
-    - "Cloud-Native Patterns"
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 💬 ASK ME ABOUT
-
-</div>
-
-<div align="center">
+## 💡 Open to Collaborate On
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-<img src="https://img.icons8.com/nolan/96/code.png" width="80"/>
+### 🤝 Looking For
 
-### **Web Development**
-MERN Stack • Next.js • TypeScript<br/>
-REST APIs • GraphQL • WebSockets<br/>
-State Management • Authentication
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.icons8.com/nolan/96/3d-select.png" width="80"/>
-
-### **3D Visualization**
-Three.js • WebGL • Shaders<br/>
-Cesium • Leaflet • GIS<br/>
-Performance Optimization
+- 🔥 **Open-Source** MERN & Next.js projects
+- 🎨 **3D Web Visualization** innovations
+- 🌐 **Full-Stack** development challenges
+- 🚀 **WebGL/Three.js** optimization quests
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-<img src="https://img.icons8.com/nolan/96/design.png" width="80"/>
+### 🆘 Need Help With
 
-### **UI/UX Design**
-Figma • Framer • Prototyping<br/>
-Responsive Design • Animations<br/>
-Design Systems • Accessibility
+- ⚡ **Performance Optimization** in 3D rendering
+- 🎮 **WebGL** advanced techniques
+- 🔧 **Three.js** best practices
+- 📊 **Large-scale data** visualization
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
-## 📊 CODING METRICS
-
-</div>
+## 🌱 Currently Mastering
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Yalarp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
-<!--END_SECTION:waka-->
-
-</div>
-
-<details>
-<summary>📈 <b>More Stats</b></summary>
-<br/>
-
-<div align="center">
-
-**Productivity Stats**
-
-<!--START_SECTION:productivity-->
-📊 **This Week I Spent My Time On** 
-```text
-💬 Programming Languages:
-TypeScript   12 hrs 30 mins  ████████████░░░  45.2%
-JavaScript   8 hrs 15 mins   ████████░░░░░░░  29.8%
-CSS/SCSS     4 hrs 20 mins   ████░░░░░░░░░░░  15.7%
-JSON         1 hr 30 mins    █░░░░░░░░░░░░░░   5.4%
-Other        1 hr 5 mins     █░░░░░░░░░░░░░░   3.9%
-
-🔥 Editors:
-VS Code      26 hrs 40 mins  ████████████████  96.3%
-WebStorm     1 hr            █░░░░░░░░░░░░░░   3.7%
-
-💻 Operating System:
-Linux        18 hrs 20 mins  ████████████░░░  66.2%
-Windows      9 hrs 20 mins   ████████░░░░░░░  33.8%
-```
-<!--END_SECTION:productivity-->
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-## 🎵 SPOTIFY VIBES
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l26i2fuv44bdgvzfvg54qcvv6u&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=6366F1&bar_color_cover=true" width="500"/>
-
-**🎧 Fun Fact:** *I debug 10x faster when my playlist is on shuffle!*
+| 🎯 Focus Area | 📚 Learning |
+|:---:|:---:|
+| **Advanced React** | Patterns, Hooks, Performance |
+| **TypeScript** | Type Safety & Best Practices |
+| **Web Performance** | Optimization & Profiling |
+| **3D Graphics** | WebGL & Shader Programming |
 
 </div>
 
 ---
 
+## 💬 Ask Me About
+
 <div align="center">
 
-## 💭 RANDOM DEV WISDOM
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderRadius=15&animation=grow_out_in" />
+<img src="https://img.shields.io/badge/MERN%20Stack-Expert-00D9FF?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-Proficient-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/GIS%20Development-Specialist-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/UI/UX-Designer-FF6F61?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-Solid-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 </div>
 
 ---
 
+## 🛠️ My Arsenal
+
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+### 🎨 Frontend Magic
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="https://linkedin.com/in/pralay-te" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+### ⚡ Backend Power
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🗄️ Database Mastery
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎮 3D & Visualization
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+![Cesium](https://img.shields.io/badge/Cesium-5080A0?style=for-the-badge&logo=cesium&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+### 💻 Other Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🚀 Deployment
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yalarp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&icon_color=A177FF&text_color=FFFFFF" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Yalarp&theme=radical&hide_border=true&background=0D1117&stroke=A177FF&ring=A177FF&fire=FF6B6B&currStreakLabel=A177FF" />
+</div>
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalarp&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=FFFFFF&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Yalarp&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=A177FF&text_color=FFFFFF" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yalarp&theme=react-dark&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=FF6B6B" width="98%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yalarp&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+</div>
+
+---
+
+## 💭 Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+### 🎧 I debug faster when my Spotify playlist is on shuffle!
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l26i2fuv44bdgvzfvg54qcvv6u&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=a177ff&bar_color_cover=true" />
+
+*Music + Code = Magic ✨*
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pralay-te">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/pralay_te" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram"/>
+<a href="https://instagram.com/pralay_te">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="mailto:2706pralay@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
-</a>
-<a href="https://twitter.com/pralay_te" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square" alt="Twitter"/>
-</a>
-<a href="https://dev.to/pralay_te" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&style=flat-square" alt="Dev.to"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+### 💌 Open to freelance opportunities and exciting collaborations!
 
-### 💌 **Open to Freelance Projects • Remote Opportunities • Tech Collaborations**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
 </div>
 
----
-
 <div align="center">
 
-### 📊 PROFILE ANALYTICS
+### 👁️ Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=Yalarp&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Yalarp?label=FOLLOWERS&style=for-the-badge&color=FF6B6B&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/Yalarp?label=TOTAL%20STARS&style=for-the-badge&color=FFB86C&labelColor=000000" />
+<img src="https://visitcount.itsvg.in/api?id=Yalarp&icon=3&color=12" />
 
-<br/><br/>
+---
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&descSize=18&descAlign=50" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+reach+out+anytime!+%F0%9F%92%AC;Let's+collaborate+and+create+magic!+%E2%9C%A8" alt="Footer Animation" />
-
-<br/>
-
-**⭐ From [Yalarp](https://github.com/Yalarp) • Crafted with 💜 and lots of ☕**
+**⭐ From [Yalarp](https://github.com/Yalarp) with 💜**
 
 </div>
