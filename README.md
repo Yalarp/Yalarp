@@ -102,10 +102,7 @@ class Developer {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalarp&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10&langs_count=8&layout=compact" />
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Yalarp&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10" />
 
-<br/><br/>
-
-
-
+<br/>
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake-dark.svg">
