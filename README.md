@@ -75,17 +75,6 @@ class Developer {
 <!-- Epic Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## ⚡ TECH ARSENAL
-
-<!-- Animated Tech Stack with Glow Effect -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgres,threejs,tailwind,figma,vscode,git&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=javascript,html,css,cpp,java,python,redux,socketio,docker,vercel,linux,github&theme=dark&perline=6" />
-
-<br/><br/>
-
 <!-- Cool Tech GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
