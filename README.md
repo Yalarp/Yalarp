@@ -9,22 +9,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 
-<br/><br/>
-
 <!-- Modern Status Badges Row 1 -->
 <img src="https://img.shields.io/badge/🚀_Status-Shipping_Features-3B82F6?style=flat-square&labelColor=1e293b&color=3B82F6" />
 <img src="https://img.shields.io/badge/📍_Location-Mumbai%2C_India-10B981?style=flat-square&labelColor=1e293b&color=10B981" />
 <img src="https://img.shields.io/badge/💼_Available-For_Projects-8B5CF6?style=flat-square&labelColor=1e293b&color=8B5CF6" />
 
-<br/>
 
 <!-- Epic Status Badges Row 2 -->
 <img src="https://img.shields.io/badge/🔥_CODING-LIVE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
 <img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
 <img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=000000&color=00d9ff" />
 <img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
-
-<br/><br/>
 
 </div>
 
