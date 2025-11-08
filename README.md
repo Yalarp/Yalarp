@@ -104,23 +104,7 @@ class Developer {
 
 <br/><br/>
 
-<!-- Activity Graph with Neon Colors -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yalarp&custom_title=Contribution%20Timeline&hide_border=true&bg_color=0d1117&color=00ff41&line=ff006e&point=ffbe0b&area=true&area_color=00ff41&title_color=00ff41&radius=10" width="98%"/>
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yalarp&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-
-<br/><br/>
 
 <!-- Snake Animation -->
 <picture>
