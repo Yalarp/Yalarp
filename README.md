@@ -1,236 +1,169 @@
 <div align="center">
 
-<!-- Cyberpunk Hero Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24,30&text=PRALAY%20TE&fontSize=70&fontColor=fff&stroke=00ff41&strokeWidth=2&animation=fadeIn&desc=Full-Stack%20Wizard%20%E2%9C%A8%20|%20GIS%20Sorcerer%20%F0%9F%97%BA%EF%B8%8F%20|%203D%20Architect%20%F0%9F%8E%AE&descSize=20&descAlignY=65"/>
+<!-- Modern Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3,5,6&text=PRALAY%20TE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18"/>
 
-<!-- Animated Matrix-style Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%3E+Turning+caffeine+into+code...+%E2%98%95;%3E+Building+the+metaverse%2C+one+polygon+at+a+time;%3E+MERN+%2B+WebGL+%3D+%F0%9F%92%A5;%3E+console.log('Let\'s+build+something+epic!')" alt="Typing SVG" />
+<!-- Clean Modern Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;MERN+Stack+%2B+3D+Visualization;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
-<!-- Glowing Badges -->
-<img src="https://img.shields.io/badge/🔥_CODING-LIVE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
-<img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
-<img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=000000&color=00d9ff" />
-<img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
-
-<br/><br/>
-
-<!-- Cool Animated GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<!-- Modern Status Badges -->
+<img src="https://img.shields.io/badge/🚀_Status-Shipping_Features-3B82F6?style=flat-square&labelColor=1e293b&color=3B82F6" />
+<img src="https://img.shields.io/badge/📍_Location-Mumbai%2C_India-10B981?style=flat-square&labelColor=1e293b&color=10B981" />
+<img src="https://img.shields.io/badge/💼_Available-For_Projects-8B5CF6?style=flat-square&labelColor=1e293b&color=8B5CF6" />
 
 </div>
 
 <br/>
 
-## 🎮 CURRENT QUEST
+## 👨‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```typescript
-class Developer {
-  name = "Pralay Te";
-  location = "Mumbai 🇮🇳";
+```javascript
+const developer = {
+  name: "Pralay Te",
+  location: "Mumbai, India 🇮🇳",
+  role: "Full-Stack Developer",
   
-  currentMission() {
-    return {
-      🎯 project: "Full-Stack GIS Platform",
-      ⚡ stack: ["MERN", "TypeScript", "Three.js"],
-      🌍 features: ["2D/3D Maps", "Real-time Viz"],
-      🔥 status: "Shipping code at light speed"
-    };
-  }
+  currentFocus: {
+    project: "Full-Stack GIS Platform",
+    stack: ["MERN", "TypeScript", "Three.js"],
+    learning: ["Advanced React", "WebGL", "System Design"]
+  },
   
-  powerUps = {
-    frontend: ["React ⚛️", "Next.js 🔺", "Three.js 🎨"],
-    backend: ["Node.js 💚", "Express ⚡", "MongoDB 🍃"],
-    superpowers: ["WebGL Magic ✨", "GIS Wizardry 🗺️"]
-  };
+  technologies: {
+    frontend: ["React", "Next.js", "TypeScript", "Three.js"],
+    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+    visualization: ["Leaflet", "Cesium ION", "WebGL"],
+    tools: ["Git", "Docker", "Figma", "VS Code"]
+  },
   
-  dailyRoutine() {
-    while (alive) {
-      eat();
-      code();
-      sleep(); // optional
-      repeat();
-    }
-  }
-}
+  interests: ["3D Graphics", "GIS", "Web Performance", "UI/UX"],
+  funFact: "Debugging with music = 10x productivity 🎧"
+};
 ```
 
 <br clear="right"/>
 
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## ⚡ TECH ARSENAL
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-<!-- Animated Tech Stack with Glow Effect -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgres,threejs,tailwind,figma,vscode,git&theme=dark&perline=6" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=javascript,html,css,cpp,java,python,redux,socketio,docker,vercel,linux,github&theme=dark&perline=6" />
-
-<br/>
-
-<!-- Cool Tech GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
-## 📊 STATS DASHBOARD
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Neon-style Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yalarp&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff006e&text_color=ffffff&border_radius=10&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Yalarp&theme=radical&hide_border=true&background=0D1117&stroke=00ff41&ring=ff006e&fire=ffbe0b&currStreakLabel=00ff41&sideLabels=ffffff&border_radius=10" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalarp&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10&langs_count=8&layout=compact" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Yalarp&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10" />
-
-<br/>
-
-<!-- Activity Graph with Neon Colors -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yalarp&custom_title=Contribution%20Timeline&hide_border=true&bg_color=0d1117&color=00ff41&line=ff006e&point=ffbe0b&area=true&area_color=00ff41&title_color=00ff41&radius=10" width="98%"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yalarp&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981&text_color=CBD5E1&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yalarp&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=CBD5E1&langs_count=8"/>
 </div>
 
-<br/>
-
 <div align="center">
-
-<!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🏆 ACHIEVEMENT UNLOCKED
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yalarp&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yalarp/Yalarp/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yalarp&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=10B981&fire=F59E0B&currStreakLabel=CBD5E1&sideLabels=CBD5E1" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yalarp&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=3B82F6&line=10B981&point=F59E0B&area=true&area_color=3B82F6" width="49%"/>
 </div>
 
 <br/>
 
-## 🤝 LET'S COLLAB
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yalarp&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
-
-### 💡 Open to Collaborate On:
-
-- 🔥 **Open Source** MERN & Next.js projects
-- 🎨 **3D Web Apps** with Three.js/WebGL
-- 🗺️ **GIS Solutions** & Geospatial viz
-- ⚡ **Full-Stack SaaS** applications
+### 💡 Open to Working On
+- 🔥 Open Source MERN Stack Projects
+- 🎨 3D Web Visualizations with Three.js
+- 🗺️ GIS & Mapping Applications
+- ⚡ Full-Stack SaaS Products
+- 🎮 WebGL & Interactive Experiences
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="400">
-
-### 🎯 Currently Learning:
-
-- 🚀 Advanced React Patterns
-- 📘 TypeScript Deep Dive
-- ⚡ Web Performance Optimization
-- 🎮 WebGL & Shader Programming
+### 🎯 Currently Learning
+- Advanced React Patterns & Architecture
+- TypeScript Best Practices
+- Web Performance Optimization
+- WebGL & Shader Programming
+- Cloud Infrastructure & DevOps
 
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-<!-- Cool Animated Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🎵 CURRENT VIBE
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31l26i2fuv44bdgvzfvg54qcvv6u&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ff41&bar_color_cover=true" width="400"/>
-
-**🎧 Fun Fact:** Code quality = 10x when playlist is on shuffle!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 💭 DAILY DEV WISDOM
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🌐 CONNECT & CONQUER
-
-<!-- Glowing Social Buttons -->
-<a href="https://linkedin.com/in/pralay-te">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=000000"/>
-</a>
-<a href="mailto:2706pralay@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=000000"/>
-</a>
-<a href="https://instagram.com/pralay_te">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square&labelColor=000000"/>
-</a>
-<a href="https://twitter.com/pralay_te">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square&labelColor=000000"/>
-</a>
-
-<br/><br/>
-
-<!-- Cool ASCII Art -->
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   💼 Open to Freelance • Remote Work • Cool Projects         ║
-║   🚀 Let's build something EPIC together!                    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pralay-te)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2706pralay@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pralay_te)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 <br/>
 
-<!-- Animated Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Yalarp&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Yalarp?label=FOLLOWERS&style=for-the-badge&color=ff006e&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/Yalarp?label=STARS&style=for-the-badge&color=ffbe0b&labelColor=000000" />
-
-<br/><br/>
-
-<!-- Epic Footer with Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+**💼 Open to freelance opportunities and collaborations**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+create+something+legendary!+%E2%9C%A8;Hit+me+up+for+collaborations!+%F0%9F%9A%80" alt="Footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=Yalarp&color=3B82F6&style=flat-square&label=Profile+Views)
 
-<br/><br/>
+</div>
 
-<!-- Final Epic Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20,24,30&section=footer&reversal=false"/>
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+**⭐ From [Yalarp](https://github.com/Yalarp) • Made with 💙 and lots of ☕**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,3,5,6&section=footer"/>
 
 </div>
