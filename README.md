@@ -1,12 +1,34 @@
 <div align="center">
 
-<!-- Modern Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3,5,6&text=PRALAY%20TE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18"/>
+<!-- 🌌 Stunning Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,4,6,8,10&text=PRALAY%20TEMBHURNE&fontAlignY=40&fontAlign=50&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18&descAlign=50"/>
 
-<!-- Clean Modern Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;MERN+Stack+%2B+3D+Visualization;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<!-- ⚡ Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=🚀+Building+Digital+Experiences;💻+MERN+Stack+%2B+3D+Visualization;🧠+Always+Learning%2C+Always+Building;🌐+Turning+Ideas+Into+Reality" alt="Typing Animation"/>
 
 <br/><br/>
+
+<!-- 🌍 Info Badges (Row 1) -->
+<p>
+  <img src="https://img.shields.io/badge/💼%20Available_For-Projects-8B5CF6?style=for-the-badge&labelColor=0F172A&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/📍%20Location-Mumbai%2C%20India-10B981?style=for-the-badge&labelColor=0F172A&color=10B981" />
+  <img src="https://img.shields.io/badge/🧭%20Focus-Full_Stack_%2B_3D_Web_Dev-3B82F6?style=for-the-badge&labelColor=0F172A&color=3B82F6" />
+</p>
+
+<!-- 🔥 Status Badges (Row 2) -->
+<p>
+  <img src="https://img.shields.io/badge/🔥_CODING-LIVE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
+  <img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
+  <img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=000000&color=00d9ff" />
+  <img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
+</p>
+
+<!-- 💫 Quote or Tagline -->
+<br/>
+<em>“Turning complex ideas into clean, interactive, and meaningful digital experiences.”</em>
+
+</div>
+
 
 <!-- Modern Status Badges Row 1 -->
 <img src="https://img.shields.io/badge/🚀_Status-Shipping_Features-3B82F6?style=flat-square&labelColor=1e293b&color=3B82F6" />
