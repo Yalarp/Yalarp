@@ -1,27 +1,31 @@
 <div align="center">
 
-<!-- Modern Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,3,5,6&text=PRALAY%20TE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20GIS%20Specialist%20%7C%203D%20Web%20Wizard&descAlignY=60&descSize=18"/>
+<!-- Epic Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,15,18,20,23&text=PRALAY%20TE&fontSize=90&fontColor=fff&stroke=00FFD1&strokeWidth=2&animation=twinkling&desc=Full-Stack%20Developer%20%E2%9A%A1%20GIS%20Specialist%20%E2%9A%A1%203D%20Web%20Wizard&descSize=20&descAlignY=65"/>
 
-<!-- Clean Modern Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;MERN+Stack+%2B+3D+Visualization;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<!-- Glowing Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=850&height=80&lines=%3E+Crafting+digital+magic+with+code+%E2%9C%A8;%3E+MERN+%2B+Three.js+%2B+Infinite+Possibilities;%3E+Building+tomorrow's+web+today+%F0%9F%9A%80;%3E+Where+creativity+meets+technology+%F0%9F%8E%A8" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Modern Status Badges Row 1 -->
-<img src="https://img.shields.io/badge/🚀_Status-Shipping_Features-3B82F6?style=flat-square&labelColor=1e293b&color=3B82F6" />
-<img src="https://img.shields.io/badge/📍_Location-Mumbai%2C_India-10B981?style=flat-square&labelColor=1e293b&color=10B981" />
-<img src="https://img.shields.io/badge/💼_Available-For_Projects-8B5CF6?style=flat-square&labelColor=1e293b&color=8B5CF6" />
+<!-- Glowing Status Badges - Modern Row -->
+<img src="https://custom-icon-badges.demolab.com/badge/STATUS-SHIPPING%20FEATURES-00FFD1?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000&color=00FFD1" />
+<img src="https://custom-icon-badges.demolab.com/badge/LOCATION-MUMBAI%2C%20INDIA-FF006E?style=for-the-badge&logo=location&logoColor=white&labelColor=000&color=FF006E" />
+<img src="https://custom-icon-badges.demolab.com/badge/MODE-BEAST%20MODE-FFD700?style=for-the-badge&logo=flame&logoColor=black&labelColor=000&color=FFD700" />
 
 <br/>
 
-<!-- Epic Status Badges Row 2 -->
-<img src="https://img.shields.io/badge/🔥_CODING-LIVE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
-<img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
-<img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=000000&color=00d9ff" />
-<img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
+<!-- Epic Animated Badges -->
+<img src="https://custom-icon-badges.demolab.com/badge/CODING-LIVE%20NOW-00FF41?style=for-the-badge&logo=code&logoColor=black&labelColor=000&color=00FF41" />
+<img src="https://custom-icon-badges.demolab.com/badge/VIBE-UNSTOPPABLE-8B00FF?style=for-the-badge&logo=zap&logoColor=white&labelColor=000&color=8B00FF" />
+<img src="https://custom-icon-badges.demolab.com/badge/AVAILABLE-FOR%20HIRE-00D9FF?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=000&color=00D9FF" />
 
 <br/><br/>
+
+<!-- Dynamic Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+<br/>
 
 <!-- Cool Animated GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
