@@ -28,16 +28,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 💭 DAILY DEV WISDOM
+## 🎮 CURRENT QUEST: Building Epic Stuff
 
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 ```typescript
 class Developer {
   name = "Pralay Te";
   location = "Mumbai 🇮🇳";
   role = "Full-Stack Developer";
-  
+
   currentMission() {
     return {
       🎯 project: "Full-Stack GIS Platform",
@@ -46,13 +46,13 @@ class Developer {
       🔥 status: "Shipping code at light speed"
     };
   }
-  
+
   powerUps = {
     frontend: ["React ⚛️", "Next.js 🔺", "Three.js 🎨"],
     backend: ["Node.js 💚", "Express ⚡", "MongoDB 🍃"],
     superpowers: ["WebGL Magic ✨", "GIS Wizardry 🗺️"]
   };
-  
+
   dailyRoutine() {
     while (alive) {
       eat();
@@ -69,6 +69,7 @@ class Developer {
 ---
 
 <div align="center">
+
 
 <!-- Epic Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
