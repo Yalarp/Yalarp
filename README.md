@@ -156,8 +156,12 @@ const pralay = {
 <br/>
 
 <!-- Contribution Snake - Using Platane's reliable snake generator -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
+</picture>
 <!-- Profile Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=Yalarp&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
