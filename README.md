@@ -30,8 +30,8 @@
 
 <br/>
 
-<!-- Animated Tech Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<!-- Animated Tech Banner - Using raw.githubusercontent for reliability -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/output/gif/developer.gif" width="450">
 
 </div>
 
@@ -39,14 +39,14 @@
 <!-- 🧬 ABOUT ME SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" />
   &nbsp;About Me
 </h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/output/gif/developer-2.gif" width="350">
 
 ```typescript
 const pralay = {
@@ -80,10 +80,10 @@ const pralay = {
 <!-- 🛠️ TECH ARSENAL -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" />
   &nbsp;Tech Arsenal
 </h2>
 
@@ -112,16 +112,16 @@ const pralay = {
 
 <br/>
 
-<!-- Animated Tech Icons -->
+<!-- Animated Tech Icons - Using reliable CDN -->
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80">
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a8a7-4b8f-9f27-adc101f2b5ec.gif" width="80">
+  <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" /></a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="Nginx" /></a>
 </p>
 
 </div>
@@ -130,10 +130,10 @@ const pralay = {
 <!--  GITHUB ANALYTICS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-a4e5e70a6c03.png" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
   &nbsp;GitHub Analytics
 </h2>
 
@@ -155,13 +155,13 @@ const pralay = {
 
 <br/>
 
-<!-- Contribution Snake - Using Platane's reliable snake generator -->
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yalarp/Yalarp/main/output/github-contribution-grid-snake.svg">
 </picture>
+
 <!-- Profile Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=Yalarp&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
@@ -171,10 +171,10 @@ const pralay = {
 <!-- 🎯 WHAT I'M UP TO -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a88e402019f.png" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" />
   &nbsp;Current Focus
 </h2>
 
@@ -218,12 +218,12 @@ const pralay = {
 <!-- 💭 DAILY WISDOM -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30" />
   &nbsp;Dev Wisdom
 </h2>
 
@@ -235,10 +235,10 @@ const pralay = {
 <!-- 🌐 CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <h2>
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" />
   &nbsp;Let's Connect
 </h2>
 
@@ -288,7 +288,7 @@ const pralay = {
 <br/>
 
 <!-- Animated Footer Image -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/output/gif/code.gif" width="350">
 
 <br/><br/>
 
