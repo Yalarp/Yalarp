@@ -6,18 +6,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,100:764ba2&text=PRALAY%20TEMBHURNE&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%203D%20Web%20Wizard%20%E2%80%A2%20Code%20Craftsman&descAlignY=60&descSize=18&stroke=ffffff&strokeWidth=1"/>
 
-<!-- Animated Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+digital+playground;%E2%9C%A8+Where+ideas+transform+into+immersive+experiences;%F0%9F%9A%80+Let's+build+something+extraordinary+together!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;MERN+Stack+%2B+3D+Visualization;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<!-- Cool Animated GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+</br>
+<!-- Modern Status Badges Row 1 -->
+<img src="https://img.shields.io/badge/🚀_Status-Shipping_Features-3B82F6?style=flat-square&labelColor=1e293b&color=3B82F6" />
+<img src="https://img.shields.io/badge/📍_Location-Mumbai%2C_India-10B981?style=flat-square&labelColor=1e293b&color=10B981" />
+<img src="https://img.shields.io/badge/💼_Available-For_Projects-8B5CF6?style=flat-square&labelColor=1e293b&color=8B5CF6" />
 
-<!-- Premium Status Cards -->
-<p>
-  <img src="https://img.shields.io/badge/⚡_STATUS-OPEN_TO_WORK-00d26a?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/📍_LOCATION-MUMBAI,_INDIA-667eea?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🎯_FOCUS-BUILDING_THE_FUTURE-f093fb?style=for-the-badge&labelColor=1a1b27" />
-</p>
+
+<!-- Epic Status Badges Row 2 -->
+<img src="https://img.shields.io/badge/🔥_CODING-LIVE-00ff41?style=for-the-badge&labelColor=000000&color=00ff41" />
+<img src="https://img.shields.io/badge/⚡_MODE-BEAST-ff006e?style=for-the-badge&labelColor=000000&color=ff006e" />
+<img src="https://img.shields.io/badge/🎯_STATUS-SHIPPING-00d9ff?style=for-the-badge&labelColor=000000&color=00d9ff" />
+<img src="https://img.shields.io/badge/🚀_VIBE-UNSTOPPABLE-ffbe0b?style=for-the-badge&labelColor=000000&color=ffbe0b" />
+
 
 <br/>
 
