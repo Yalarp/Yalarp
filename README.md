@@ -14,8 +14,6 @@
 <br/>
 
 <!-- Funny Developer Meme -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHd5eDZtYnN0Y3JkN3h2YWtxaWp0dXJsMXp3YmE4azRqcjBkY3Q3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="300">
-
 <p><i>"Works on my machine" - Every Developer Ever</i></p>
 
 </br>
