@@ -6,10 +6,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:667eea,100:764ba2&text=PRALAY%20TEMBHURNE&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20GIS%20Specialist%20%E2%80%A2%20MERN%20Stack&descAlignY=60&descSize=18&stroke=ffffff&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Web+Solutions+%F0%9F%9A%80;MERN+Stack+Developer;GIS+%26+3D+Visualization;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Web+Solutions+%F0%9F%9A%80;MERN+Stack+Developer;GIS+%26+3D+Visualization;console.log(%22Hello+World%22);Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 
 <!-- Cool Animated GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+
+<br/>
+
+<!-- Funny Developer Meme -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHd5eDZtYnN0Y3JkN3h2YWtxaWp0dXJsMXp3YmE4azRqcjBkY3Q3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="300">
+
+<p><i>"Works on my machine" - Every Developer Ever</i></p>
 
 </br>
 
@@ -86,11 +93,70 @@ const pralay = {
         tools: ["Git", "GitHub", "Postman", "Figma", "Socket.io"]
     },
     currentFocus: ["Advanced Web Development", "System Design", "Full-Stack Architecture"],
-    availability: "Open to opportunities"
+    workingOn: "Turning caffeine into code ☕",
+    funFacts: [
+        "I debug with console.log() and I'm not ashamed 😎",
+        "My code works... I have no idea why 🤷‍♂️",
+        "Semicolons are optional... or are they? 🤔",
+        "I speak fluent Google and Stack Overflow 🔍"
+    ],
+    currentStatus: "Trying to center a div... still",
+    availability: "Open to opportunities (and memes)"
 };
+
+// Warning: May contain traces of coffee and late-night commits
+console.log("Why did the developer go broke? Because he used up all his cache! 💸");
 ```
 
 <br clear="right"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 😂 DEVELOPER LIFE -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+
+<div align="center">
+
+<h2>😂 Developer Life in a Nutshell</h2>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<p><b>When my code works first try</b></p>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+<p><b>Looking for that one missing semicolon</b></p>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="200"/>
+<p><b>Explaining my code to senior dev</b></p>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+<br/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+<p><b>Me after fixing a bug I created while fixing another bug</b></p>
+</td>
+</tr>
+</table>
+
+<h3>📊 My Typical Day</h3>
+
+```
+Coding     ████████████░░░░░░░░░░  60%
+Debugging  ████████░░░░░░░░░░░░░░  40%
+Meetings   ██░░░░░░░░░░░░░░░░░░░░  10%
+Coffee     ████████████████████░░  99%
+Sleep      ░░░░░░░░░░░░░░░░░░░░░░   5%
+```
+
+<p><i>"It's not a bug, it's an undocumented feature!" 🐛</i></p>
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 💼 EXPERIENCE -->
@@ -140,10 +206,15 @@ achievements:
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" />
-  &nbsp;Tech Stack
+  &nbsp;Tech Stack (a.k.a My Arsenal of Magic Spells 🪄)
 </h2>
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+<p><i>"I don't always test my code, but when I do, I do it in production"</i></p>
+
+<br/>
 
 <!-- Languages -->
 <h3>💻 Programming Languages</h3>
@@ -182,6 +253,10 @@ achievements:
 - **GIS:** Leaflet, Cesium ION, Google Earth Pro
 - **3D:** Three.js, KML/KMZ visualization
 
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="150"/>
+
+<p><i>"CSS is easy" - Said no one ever</i></p>
+
 </td>
 <td width="50%" valign="top">
 
@@ -190,6 +265,10 @@ achievements:
 - **Databases:** MongoDB, MySQL, SQL
 - **APIs:** RESTful APIs, Socket.io
 - **Auth:** JWT-based authentication
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
+
+<p><i>"There are 2 hard problems in CS: cache invalidation, naming things, and off-by-1 errors"</i></p>
 
 </td>
 </tr>
@@ -382,10 +461,16 @@ Built foundation in programming, algorithms, and software engineering principles
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
-  &nbsp;Current Focus
+  &nbsp;What I'm Up To (Besides Procrastinating) 🎯
 </h2>
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+
+<p><i>"I'll start working on it right after I check Twitter... and Reddit... and YouTube..."</i></p>
+
+<br/>
 
 <table>
 <tr>
@@ -401,6 +486,11 @@ pgdac_curriculum:
   - "Web Technologies & Frameworks"
   - "Operating Systems & Networks"
   - "Software Engineering Practices"
+  
+reality_check:
+  - "Stack Overflow-Driven Development ✅"
+  - "Professional Googling 101 ✅"
+  - "Ctrl+C, Ctrl+V Mastery ✅"
 ```
 
 </td>
@@ -416,10 +506,17 @@ exploring:
   - "Performance Optimization"
   - "DevOps Practices"
   
+actually_doing:
+  - "Googling error messages 🔍"
+  - "Reading docs (just kidding) 📚"
+  - "Fixing merge conflicts 🔀"
+  - "Pretending to understand RegEx 😅"
+  
 seeking:
   - "Full-Stack Developer Roles"
   - "Collaborative Projects"
   - "Open Source Contributions"
+  - "A bug-free codebase (still searching)"
 ```
 
 </td>
@@ -438,8 +535,12 @@ seeking:
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Thought%20Balloon.png" width="35" />
-  &nbsp;Dev Philosophy
+  &nbsp;Dev Philosophy & Wisdom 🧠
 </h2>
+
+<br/>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 <br/>
 
@@ -449,7 +550,49 @@ seeking:
 
 <br/>
 
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> 
+> — Martin Fowler
+
+<br/>
+
+> *"First, solve the problem. Then, write the code. Then, wonder why it worked."*
+> 
+> — Me, Every Single Time
+
+<br/>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming&border=true" />
+
+<br/>
+
+<h3>⚠️ Developer Warnings</h3>
+
+<table>
+<tr>
+<td align="center">
+
+```diff
+- DO NOT DISTURB
++ Currently debugging
+! May cause hair pulling
+# Caffeine levels critical
+```
+
+</td>
+<td align="center">
+
+```yaml
+warnings:
+  - "Variable names may not make sense"
+  - "Comments are lies from the past"
+  - "TODO: Fix this later (spoiler: never fixed)"
+  - "This code is held together by duct tape and prayers"
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -538,10 +681,40 @@ seeking:
 <!-- Animated Footer -->
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/media/output/gif/code.gif" width="300">
 
-<br/><br/>
+<br/>
+
+<!-- Funny Goodbye Memes -->
+<table>
+<tr>
+<td align="center">
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200"/>
+<p><b>Me after pushing to production on Friday</b></p>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+<p><b>When the code actually works</b></p>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- Final Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!;Feel+free+to+reach+out+%F0%9F%9A%80" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!;Feel+free+to+reach+out+%F0%9F%9A%80;P.S.+I+accept+coffee+as+payment+%E2%98%95" alt="Footer" />
+
+<br/>
+
+<h3>🎮 Quick Stats</h3>
+
+```
+Lines of code written:  ████████████████████  999,999+
+Bugs created:          ████████████████████  999,999+
+Bugs fixed:            ██░░░░░░░░░░░░░░░░░░  99
+Coffee consumed:       ████████████████████  ∞
+Sleep hours:           █░░░░░░░░░░░░░░░░░░░  -5
+```
+
+<p><i>"Remember: Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live." 😰</i></p>
 
 <br/>
 
@@ -552,10 +725,18 @@ seeking:
 
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="25" />
-  <strong>Crafted with passion by <a href="https://github.com/Yalarp">Pralay Tembhurne</a></strong>
+  <strong>Crafted with passion (and lots of coffee ☕) by <a href="https://github.com/Yalarp">Pralay Tembhurne</a></strong>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" width="25" />
 </p>
 
 <p><sub>💡 If you find my work interesting, don't forget to ⭐ some repos!</sub></p>
+<p><sub>🐛 If you find bugs in my code, please don't tell anyone... just kidding, create an issue! 😅</sub></p>
+<p><sub>☕ Powered by caffeine, Stack Overflow, and sheer determination</sub></p>
+
+<br/>
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150"/>
+
+<p><i>"May your code compile on the first try!" 🙏</i></p>
 
 </div>
